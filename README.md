@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on imporving the logic building skills and DSA
 
-- 🌱 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team
+- 🌱 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team and currently I'm working in Societe Generale as a part of FFC (Fixed Income, Forex and Commodity) Team
 
 - 👨‍🏫 I was the web Dev Lead @ TedXVITChennai and Competitive Programming Lead @ DSC VIT Chennai for 2021-2022.
 
