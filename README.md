@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorv-asc&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-asc" /> </p>
 
-- 🔭 I’m currently working on imporving the logic building skills and DSA
+- 🔭 I’m currently working on imporving the logic building skills, DSA and System Design skills.
 
-- 🌱 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team and currently I'm working in Societe Generale as a part of FFC (Fixed Income, Forex and Commodity) Team
+- 🌱 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team and currently I'm working in Societe Generale in the FFC (Fixed Income, Forex and Commodity) Team.
 
 - 👨‍🏫 I was the web Dev Lead @ TedXVITChennai and Competitive Programming Lead @ DSC VIT Chennai for 2021-2022.
 
