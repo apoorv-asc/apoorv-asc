@@ -7,13 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorv-asc&label=Profile%20views&color=0e75b6&style=flat" alt="apoorv-asc" /> </p>
 
-- 🔭 I’m currently working on imporving the logic building skills, DSA and System Design skills.
 
-- 🌱 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team and currently I'm working in Societe Generale in the FFC (Fixed Income, Forex and Commodity) Team.
+## 🚀 About Me
+- 🧠 I build **AI-driven applications** that turn data into real-world insights  
+- ⚙️ Strong focus on **scalable backend systems & APIs**
+- 🌱 Currently deep diving into **AI Agents, DSA and System Design**
+- 🤝 I have interned at Microsoft Hyderabad in Summer'22 in the the Cloud and AI Team and currently I'm working in Societe Generale in the FFC (Fixed Income, Forex and Commodity) Team.
+- 💡 Interested in **GenAI, distributed systems and Low Latency Trading Systems** 
 
-- 👨‍🏫 I was the web Dev Lead @ TedXVITChennai and Competitive Programming Lead @ DSC VIT Chennai for 2021-2022.
-
-- 📫 How to reach me **apoorvsingh1120@gmail.com**
 
 
 ## 🔥 Streaks & Stats
@@ -21,8 +22,7 @@
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorv-asc&theme=algolia" alt="candida18" width="350" height="192px"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"> &emsp;&emsp;
-     <img alt="Joyeeta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=apoorv-asc&show_icons=true&count_private=true&theme=algolia" width="350" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"> &emsp;&emsp;</a>
 </p>
 
 
@@ -109,11 +109,3 @@
 	<a href="https://www.instagram.com/apoorv_singh_chauhan_/"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a>
 	
 </p>
-
-<h3>ReadME File Credit</h3>
-<a href="https://github.com/joyeetadey">Joyeeta Dey</h3>
-<hr/>
-
-
-
-
